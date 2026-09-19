@@ -1,10 +1,4 @@
-# Senior Honours Essay — Empirical Analysis
-# The Role of Digital Access and Skills in Financial Service Use in Canada
-# Imaan Saleh | University of Waterloo | ECON 472
-#
-# ============================================================
 # 1. SETUP AND DATA IMPORT
-# ============================================================
 setwd("~/Desktop/ciusdata")
 list.files()
 list.files(recursive = TRUE)
@@ -15,9 +9,7 @@ library(haven)
 df <- read_sas("Data/cius_pumf.sas7bdat")
 View(df)
 
-# ============================================================
 # 2. VARIABLE SELECTION AND CLEANING
-# ============================================================
 
 names(df)[1:20]
 library(haven)
