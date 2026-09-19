@@ -1,6 +1,6 @@
 # The Role of Digital Access and Skills in Financial Service Use in Canada: Evidence from the Canadian Internet Use Survey – Public Use Microdata File
 
-**Imaan Saleh | Economics Senior Honours Essay| University of Waterloo | 2026**
+**Imaan Saleh | Economics Senior Honours Essay| University of Waterloo 2026**
 
 ## Overview
 
